@@ -1,0 +1,15 @@
+
+deploy-win-vm/.terraform/plugins/darwin_amd64/terraform-provider-vsphere_v1.12.0_x4
+deploy-win-vm/.terraform/plugins/darwin_amd64/lock.json
+deploy-win-vm/.DS_Store
+deploy-centos-vm/.terraform/plugins/darwin_amd64/terraform-provider-vsphere_v1.12.0_x4
+deploy-centos-vm/.terraform/plugins/darwin_amd64/lock.json
+deploy-centos-vm/.DS_Store
+create-tags/.DS_Store
+configure-standard-switch/.terraform/plugins/darwin_amd64/terraform-provider-vsphere_v1.16.2_x4
+configure-standard-switch/.terraform/plugins/darwin_amd64/lock.json
+configure-standard-switch/.DS_Store
+configure-dvswitch/.terraform/plugins/darwin_amd64/terraform-provider-vsphere_v1.16.2_x4
+configure-dvswitch/.terraform/plugins/darwin_amd64/lock.json
+configure-dvswitch/.DS_Store
+.DS_Store
